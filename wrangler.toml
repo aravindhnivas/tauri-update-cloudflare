@@ -1,4 +1,4 @@
-name = "tauri-update-server"
+name = "felion-update-server"
 type = "javascript"
 zone_id = ""
 account_id = ""
